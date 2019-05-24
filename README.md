@@ -37,4 +37,4 @@ Para comenzar un nuevo proyecto:
 ## Licencia
 Este proyecto está licenciado bajo los términos de la [Licencia MIT](/LICENSE)
 
-## Información en el wiki
+## Información en el [wiki](https://github.com/tacos-de-datos/cookiecutter-analisis-de-datos/wiki)
