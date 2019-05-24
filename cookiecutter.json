@@ -1,11 +1,12 @@
 {
-    "full_name": "Mario Krapp",
-    "email": "mariokrapp@gmail.com",
-    "github_username": "mkrapp",
-    "project_name": "Name of your science project",
-    "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
-    "project_short_description": "A short description of your project",
-    "release_date": "{% now 'local' %}",
+    "nombre_completo": "Sergio Sanchez",
+    "email": "chekos@tacosdedatos.com",
+    "github_usuario": "chekos",
+    "github_repo": "analisis-de-datos",
+    "nombre_del_proyecto": "Name of your science project",
+    "ficha_del_proyecto": "{{ cookiecutter.nombre_del_proyecto.lower().replace(' ', '-') }}",
+    "descripcion_corta": "A short description of your project",
+    "fecha": "{% now 'local' %}",
     "version": "0.1.0",
     "_extensions": ["jinja2_time.TimeExtension"]
 }

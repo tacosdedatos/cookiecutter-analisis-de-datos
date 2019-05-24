@@ -1,12 +1,9 @@
-Credits
-=======
+# Créditos
 
-Project Lead
-----------------
+## Autores
 
-* {{ cookiecutter.full_name }} <{{ cookiecutter.email }}>
+* {{ cookiecutter.nombre_completo }} <{{ cookiecutter.email }}>
 
-Project Contributors
-------------
+## Contribuyentes
 
-None.
+ - XXXX

@@ -1,0 +1,9 @@
+name: {{cookiecutter.ficha_del_proyecto}}
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - altair
+  - pip
+  - pip:
+    - arrow
