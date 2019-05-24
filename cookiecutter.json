@@ -3,10 +3,9 @@
     "email": "chekos@tacosdedatos.com",
     "github_usuario": "chekos",
     "github_repo": "analisis-de-datos",
-    "nombre_del_proyecto": "Name of your science project",
+    "nombre_del_proyecto": "Nombre del proyecto",
     "ficha_del_proyecto": "{{ cookiecutter.nombre_del_proyecto.lower().replace(' ', '-') }}",
-    "descripcion_corta": "A short description of your project",
+    "descripcion_corta": "Una descripción corta del proyecto",
     "fecha": "{% now 'local' %}",
-    "version": "0.1.0",
     "_extensions": ["jinja2_time.TimeExtension"]
 }
