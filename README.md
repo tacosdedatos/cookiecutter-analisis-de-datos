@@ -36,3 +36,5 @@ Para comenzar un nuevo proyecto:
 
 ## Licencia
 Este proyecto está licenciado bajo los términos de la [Licencia MIT](/LICENCIA)
+
+## Información en el wiki
