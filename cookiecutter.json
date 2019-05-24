@@ -5,7 +5,7 @@
     "github_repo": "analisis-de-datos",
     "nombre_del_proyecto": "Nombre del proyecto",
     "ficha_del_proyecto": "{{ cookiecutter.nombre_del_proyecto.lower().replace(' ', '-') }}",
-    "descripcion_corta": "Una descripción corta del proyecto",
+    "descripcion_corta": "Una descripcion corta del proyecto",
     "fecha": "{% now 'local' %}",
     "_extensions": ["jinja2_time.TimeExtension"]
 }
