@@ -1,6 +1,6 @@
 # Análisis de datos reproducibles
 
-Una plantilla para proyectos de análisis de datos reproducibles inspirado [mkrapp/cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) y  [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science).
+Una plantilla para proyectos de análisis de datos reproducibles inspirado [mkrapp/cookiecutter-reproducible-science](https://github.com/mkrapp/cookiecutter-reproducible-science) y [drivendata/cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science).
 
 ## Requisitos 
 Instalar `cookiecutter`. En la línea de comandos: `pip install cookiecutter`    
@@ -35,6 +35,6 @@ Para comenzar un nuevo proyecto:
 ```
 
 ## Licencia
-Este proyecto está licenciado bajo los términos de la [Licencia MIT](/LICENCIA)
+Este proyecto está licenciado bajo los términos de la [Licencia MIT](/LICENSE)
 
 ## Información en el wiki
