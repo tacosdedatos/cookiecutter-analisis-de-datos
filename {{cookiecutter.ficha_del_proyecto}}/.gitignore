@@ -95,10 +95,10 @@ target/
 bin/
 
 # exclude data from source control by default
-/datos/externos
-/datos/interinos
-/datos/procesados
-/datos/brutos
+# /datos/externos
+# /datos/interinos
+# /datos/procesados
+# /datos/brutos
 
 # exclude external models from source control
 /src/external/
