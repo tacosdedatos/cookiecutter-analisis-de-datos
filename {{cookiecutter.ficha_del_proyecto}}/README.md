@@ -29,3 +29,5 @@
     └── visualizaciones <- Scripts para la visualización de sus resultados, por ejemplo, matplotlib, ggplot2, bokeh, altair.
 ```
 
+***
+Creado con `cookiecutter` y la plantilla de [@tacosdedatos](https://github.com/tacos-de-datos/cookiecutter-analisis-de-datos)
