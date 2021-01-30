@@ -8,7 +8,7 @@ Instalar `cookiecutter`. En la línea de comandos: `pip install cookiecutter`
 ## Uso
 Para comenzar un nuevo proyecto:
 
-`cookiecutter gh:tacos-de-datos/cookiecutter-analisis-de-datos`
+`cookiecutter gh:tacosdedatos/cookiecutter-analisis-de-datos`
 
 ## La estructura del proyecto
 
